@@ -36,12 +36,12 @@ API source: https://restaurant-api.dicoding.dev (Ada di .ENV)
 
 #### Get All Restaurants
 
-```http
+```bash
   GET /list
 ```
 
 #### Get Restaurant By Id
 
-```http
+```bash
   GET /detail/{id}
 ```
