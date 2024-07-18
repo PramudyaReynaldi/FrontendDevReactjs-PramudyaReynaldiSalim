@@ -1,8 +1,47 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Soal Teknis Frontend Developer
 
-Currently, two official plugins are available:
+Ini adalah soal teknis React yang dibangun untuk test kerja di Sekawan Media
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Version
+
+- **React**: 18.3.1
+- **Node.js**: 20.15.1
+## Installation
+
+**Clone repository**
+
+```bash
+  git clone https://github.com/PramudyaReynaldi/FrontendDevReactjs-PramudyaReynaldiSalim.git
+  cd FrontendDevReactjs-PramudyaReynaldiSalim
+```
+
+**Install FrontendDevReactjs-PramudyaReynaldiSalim dengan npm**
+
+```bash
+  npm install
+```
+
+**Jalankan proyek dengan npm**
+
+```bash
+  npm run dev
+```
+
+
+    
+## API Reference
+
+API source: https://restaurant-api.dicoding.dev (Ada di .ENV)
+
+#### Get All Restaurants
+
+```http
+  GET /list
+```
+
+#### Get Restaurant By Id
+
+```http
+  GET /detail/{id}
+```
