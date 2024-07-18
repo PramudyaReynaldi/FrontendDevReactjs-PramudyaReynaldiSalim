@@ -3,6 +3,10 @@
 
 Ini adalah soal teknis React yang dibangun untuk test kerja di Sekawan Media
 
+## Demo
+
+https://frontenddevreactjs-pramudyareynaldi.netlify.app/
+
 ## Version
 
 - **React**: 18.3.1
